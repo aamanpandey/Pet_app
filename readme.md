@@ -1,6 +1,6 @@
 Pet Inventory App Code:
 
-Each time you run the program, the user is allowed to repeatedly select from the four choices described below:
+Each time users run the program, the user is allowed to repeatedly select from the four choices described below:
 
     1.	Add a new pet
     
